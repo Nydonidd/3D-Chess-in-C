@@ -1,0 +1,13 @@
+# Visual Studio build output
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.tlog
+*.log
+*.recipe
+.vs/
